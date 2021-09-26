@@ -1,5 +1,5 @@
 # Python Projects: Explore Real World Data 🐍
-This repo contains python code that explores real world data.<br>
+This repo contains python code that graphs weather data.<br>
 Run the code.
 
 ![]()
@@ -8,4 +8,4 @@ Resources: <br>
 
 
 
-[Explore Real World Data Notebook]()
+[Graph Weather Data Notebook]()
